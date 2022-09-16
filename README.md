@@ -10,5 +10,7 @@
 
 抓取到t值以后，更换sheep.py中的t值即可
 
+
+![image](https://github.com/makethecode/yanglegeyangHelper/blob/main/t.png)
 # 仅用于学习！！！！！！！！！！！！！！
 
